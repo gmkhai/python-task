@@ -15,4 +15,7 @@ Keterangan:
 3. File `order_processor.py` adalah file yang berisi _class OrderProcessor_ di class ini saya menggunakan prinsip `inheritance` untuk mengambil beberapa sifat dari _class Order_ kemudian saya memanfaatkan prinsip OOP `polymorphism` untuk melakukan overwrite fungsi `display_order` yang juga sama di _class Order_
 
 Hasil Screen Shot Akhir dari program yang dijalankan
+
 ![img.png](img.png)
+
+Author: Muhammad Khairunnas
